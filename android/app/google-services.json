@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499828131761",
+    "project_id": "plantrips-15b34",
+    "storage_bucket": "plantrips-15b34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499828131761:android:8e9c62ceb0b24f17609f90",
+        "android_client_info": {
+          "package_name": "com.example.plan_trips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499828131761-308sghvtg1bot9fdkfbpgiqj4d28a1hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWAEjG87mkAJyHQXURL2TMsmrO3mGHn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499828131761-308sghvtg1bot9fdkfbpgiqj4d28a1hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
